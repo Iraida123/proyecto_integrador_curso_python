@@ -13,7 +13,7 @@ while opcion != 7:
     # PARA SOLICITAR AL USUARIO QUE SELECCIONE UNA OPCION,  CREO LA VARIABLE opcion
     opcion = int(input("Introduzca una opcion (1-7):"))
     if opcion == 7:                                                             
-       print("7. Salir")   
+       print("Usted introdujo la opcion  7. Salir")   
 
 #MOSTRAMOS LA OPCION SELECCIONADA
 
